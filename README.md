@@ -10,6 +10,7 @@
 
 주제
 	•	KTB 2개월 제주 합숙에서 세탁 및 공구 소모임 관련 편의 서비스 제공
+	•       여름철 사용 빈도가 높은 세탁기 및 건조기 공동 사용으로 인한 비용 절감
 
 수행 인원 	
 	•	5명
@@ -24,6 +25,9 @@
 프레임워크:
 	•	Spring Boot
 	•	React
+ <br/>
+ <img width="990" alt="스크린샷 2024-07-17 오전 12 05 19" src="https://github.com/user-attachments/assets/28faa67e-dbf7-43e6-aeed-af9d41dd0443">
+<br/>
 
 DB:
 	•	MySQL
